@@ -1,10 +1,16 @@
  <div>
-  <img align="right" height="180em" src="https://i.im.ge/2021/08/13/jghLa.png"/>
+  <img align="right" height="280em" src="https://i.im.ge/2021/08/13/jghLa.png"/>
   </div>
   
   ##  Bem-vindo ao meu GITHUB
  
 
+🌱 Estudando Harvard - CS50's Web Programming with Python and JavaScript<br>
+🌱 Estudando UMC - Business Intelligence, Big Data e Analytics - Ciência de Dados<br>
+😄 Ele/Dele
+  
+  ##
+ 
 
 <div style="display: inline_block;">
   <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,9 +31,4 @@
   <a href="https://www.xboxgamertag.com/search/korosenseibr">	<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emerson-silva-oliveira-19a6948/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-🌱 Estudando Harvard - CS50's Web Programming with Python and JavaScript
-🌱 Estudando UMC - Business intelligence, big data e analytics - ciência de dados
-😄 Ele/Dele
 
