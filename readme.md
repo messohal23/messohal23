@@ -6,7 +6,7 @@
  
 
 
-<div style="display: inline_block;"><br>Minhas tecnologias: 
+<div style="display: inline_block;">
   <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Messo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Messo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -17,7 +17,7 @@
   
   ##
  
-<div style="display: inline_block;"> 
+<div style="display: inline_block;">
   <a href="https://www.twitter.com/messohal23" target="_blank">
   <img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://instagram.com/messohal23" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
