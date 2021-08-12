@@ -26,3 +26,8 @@
   <a href="https://www.linkedin.com/in/emerson-silva-oliveira-19a6948/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
+🌱 Estudando Harvard - CS50's Web Programming with Python and JavaScript
+🌱 Estudando UMC - Business intelligence, big data e analytics - ciência de dados
+😄 Ele/Dele
+
