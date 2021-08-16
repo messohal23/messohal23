@@ -1,6 +1,4 @@
- <div>
-  <img align="right" height="280em" src="https://i.im.ge/2021/08/13/jghLa.png"/>
-  </div>
+
   
   ##  Bem-vindo ao meu GITHUB
  
